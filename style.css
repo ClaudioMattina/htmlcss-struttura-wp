@@ -47,20 +47,20 @@
 
 .sezione-left{
     width: 25%;
-    height: 200px;
+    height: 300px;
     float: left;
 }
 
 .sezione-centrale{
     width: calc(50% - 20px);
-    height: 200px;
+    height: 300px;
     margin: 0 10px;
     float: left;
 }
 
 .sezione-right{
     width: 25%;
-    height: 200px;
+    height: 300px;
     float: right;
 }
 
