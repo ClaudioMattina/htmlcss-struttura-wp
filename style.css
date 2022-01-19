@@ -5,19 +5,19 @@
 }
 
 .container{
-    width: 60%;
+    width: 50%;
     margin: auto;
 }
 
 .header{
-    background-color: pink;
+    background-color: rgb(165, 101, 112);
     width: 100%;
     height: 100px;
     margin-bottom: 30px;
 }
 
 .section{
-    background-color: yellow;
+    background-color: rgb(156, 156, 70);
     width: 100%;
     height: 200px;
     margin-bottom: 30px;
@@ -25,6 +25,8 @@
 
 .main-container{
     width: 100%;
+    background-color: rgb(1, 0, 68);
+    padding-bottom: 20px;
 }
 
 .clearfix{
@@ -36,21 +38,21 @@
 .sezione-alto{
     width: 100%;
     height: 60px;
-    background-color: blue;
+    background-color: rgb(86, 86, 255);
     margin-bottom: 30px;
 }
 
 .sezione-left{
     width: 25%;
     height: 200px;
-    background-color: cyan;
+    background-color: rgb(86, 86, 255);
     float: left;
 }
 
 .sezione-centrale{
     width: calc(50% - 20px);
     height: 200px;
-    background-color: cyan;
+    background-color:rgb(86, 86, 255);
     margin: 0 10px;
     float: left;
 }
@@ -58,6 +60,13 @@
 .sezione-right{
     width: 25%;
     height: 200px;
-    background-color: cyan;
+    background-color: rgb(86, 86, 255);
     float: right;
+}
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: darkorange;
+    margin-top: 10px;
 }
